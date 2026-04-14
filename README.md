@@ -1,30 +1,11 @@
-# CEO Business Pulse Dashboard
 
-A single-screen executive dashboard providing a complete business overview in 20-30 seconds.
+  # Executive Business Dashboard Redesign
 
-## Features
-- 4 core KPI pillars: Financial, Project Execution, Resource & Ops, Client Experience
-- RAG (Red/Amber/Green) status badges for instant decision-making
-- Full-year revenue trajectory chart with cumulative actual, forecast, and target lines
-- Critical risks radar with financial exposure tracking
-- Smart hover tooltips with drill-down details
-- MoM and YoY variance analytics on every KPI
-- Saudization/Nitaqat compliance tracking
-- HSEQ safety performance metrics
+  This is a code bundle for Executive Business Dashboard Redesign. The original project is available at https://www.figma.com/design/7X6tMEaThPEJaHlBEmDnac/Executive-Business-Dashboard-Redesign.
 
-## Tech Stack
-- React 18 + TypeScript
-- Tailwind CSS v4
-- Recharts (charts)
-- Radix UI (tooltips)
-- React Router v7
-- Lucide React (icons)
+  ## Running the code
 
-## Getting Started
+  Run `npm i` to install the dependencies.
 
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173 in your browser.
+  Run `npm run dev` to start the development server.
+  
